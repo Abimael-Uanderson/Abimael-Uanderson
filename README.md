@@ -1,7 +1,7 @@
 <h1 align="left">💫 Olá👋, Eu sou Abimael Uanderson</h1>
 
 <div align="left">
-  <img align="right" alt="coding" width="380" src="https://tenor.com/view/gollum-waiting-suspicious-lotr-gif-15322114.gif">
+  <img align="right" alt="coding" width="380" src="Gollum.gif">
 
   <h3>Sobre mim</h3>
   <p>
