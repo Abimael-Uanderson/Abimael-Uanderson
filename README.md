@@ -1,9 +1,12 @@
 <h1 align="left">💫 Olá👋, Eu sou Abimael Uanderson</h1>
 
 <div align="left">
+  <h3>Sobre mim</h3>
+  
+  <br>
+  
   <img align="right" alt="coding" width="380" src="Gollum.gif">
 
-  <h3>Sobre mim</h3>
   <p>
     <strong>Mergulhei de cabeça no mundo da programação.</strong> Me considero uma pessoa criativa, comprometida e automotivada. Adoro sentar no computador e colocar em prática minhas ideias através das ferramentas que domino hoje, que são <strong>Python, Java, PostgreSQL, integração de APIs e modelos de inteligência artificial</strong>.
   </p>
